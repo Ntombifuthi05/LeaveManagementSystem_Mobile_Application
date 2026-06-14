@@ -9,6 +9,7 @@ Employees can securely log in, submit leave applications, track leave statuses, 
 When an employee submits a leave request through the mobile application, the request is stored in the central database and becomes immediately available on the web application, where supervisors and HODs can review, approve, or reject the request. This real-time integration ensures efficient communication, faster decision-making, and accurate leave record management across the organization.
 
 The project demonstrates modern software development practices, including cross-platform development, API integration, role-based access control, real-time data management, and the implementation of the MVVM architecture for improved separation of concerns and maintainability.
+
 ---
 
 ## Features
