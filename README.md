@@ -2,12 +2,6 @@
 
 ## Overview
 
-The Leave Management System (LMS) Employee Mobile Application is a Flutter-based mobile application that enables employees to manage their leave requests anytime and anywhere.
-
-The application replaces manual leave application processes by providing a digital platform where employees can submit leave requests, track approvals, view leave balances, and manage their leave records.
-
-##About
-
 The Leave Management System Mobile Application is a cross-platform employee leave management solution developed using Flutter and Firebase. The application follows the MVVM (Model-View-ViewModel) architectural pattern to ensure a clean, scalable, and maintainable codebase.
 
 Employees can securely log in, submit leave applications, track leave statuses, view leave history, and manage their profiles directly from their mobile devices. The system communicates with a centralized backend through RESTful APIs and Firebase services, enabling seamless data synchronization between the mobile and web platforms.
@@ -15,7 +9,6 @@ Employees can securely log in, submit leave applications, track leave statuses, 
 When an employee submits a leave request through the mobile application, the request is stored in the central database and becomes immediately available on the web application, where supervisors and HODs can review, approve, or reject the request. This real-time integration ensures efficient communication, faster decision-making, and accurate leave record management across the organization.
 
 The project demonstrates modern software development practices, including cross-platform development, API integration, role-based access control, real-time data management, and the implementation of the MVVM architecture for improved separation of concerns and maintainability.
-
 ---
 
 ## Features
