@@ -57,7 +57,7 @@ The application replaces manual leave application processes by providing a digit
 
 
 
-## Technology Stack
+### Technology Stack
 
 - Flutter
 - Dart
@@ -66,7 +66,7 @@ The application replaces manual leave application processes by providing a digit
 - Firebase Storage
 
 
-## Project Structure
+### Project Structure
 
 ```text
 lib/
@@ -85,7 +85,7 @@ lib/
 
 
 
-## User Flow
+### User Flow
 
 1. Employee logs into the application.
 2. Employee views dashboard.
@@ -97,7 +97,7 @@ lib/
 
 
 
-## Functional Requirements
+### Functional Requirements
 
 ### Employee Login
 
@@ -140,7 +140,7 @@ Employees can view complete information about submitted leave requests.
 - Role-based authorization
 
 
-## Installation
+### Installation
 
 ### Clone Repository
 
