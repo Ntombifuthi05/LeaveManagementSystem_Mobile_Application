@@ -30,7 +30,6 @@ The application replaces manual leave application processes by providing a digit
 - View leave application status
 - Track approved, pending, rejected, and cancelled requests
 - View detailed leave information
-- Get notified when leave is approved/rejected
 
 ### Leave History
 
@@ -55,9 +54,9 @@ The application replaces manual leave application processes by providing a digit
 - View personal information
 - Update profile details
 
+---
 
-
-### Technology Stack
+## Technology Stack
 
 - Flutter
 - Dart
@@ -65,8 +64,9 @@ The application replaces manual leave application processes by providing a digit
 - Cloud Firestore
 - Firebase Storage
 
+---
 
-### Project Structure
+## Project Structure
 
 ```text
 lib/
@@ -82,10 +82,11 @@ lib/
 ├── widgets/
 ├── utils/
 └── main.dart
+```
 
+---
 
-
-### User Flow
+## User Flow
 
 1. Employee logs into the application.
 2. Employee views dashboard.
@@ -95,9 +96,9 @@ lib/
 6. Employee tracks application progress.
 7. Employee views leave history and balances.
 
+---
 
-
-### Functional Requirements
+## Functional Requirements
 
 ### Employee Login
 
@@ -132,6 +133,13 @@ Employees can cancel pending leave requests.
 
 Employees can view complete information about submitted leave requests.
 
+---
+
+## Non-Functional Requirements
+
+### Performance
+
+Fast response times for leave submissions and data retrieval.
 
 ### Security
 
@@ -139,8 +147,9 @@ Employees can view complete information about submitted leave requests.
 - Protected employee data
 - Role-based authorization
 
+---
 
-### Installation
+## Installation
 
 ### Clone Repository
 
@@ -173,3 +182,18 @@ ios/Runner/GoogleService-Info.plist
 ```bash
 flutter run
 ```
+
+---
+
+## Future Improvements
+
+- Push notifications
+- Dark mode
+- Offline support
+- Biometric authentication
+- Leave calendar integration
+
+---
+
+
+
